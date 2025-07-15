@@ -11,7 +11,7 @@ function Products() {
     {
       id: 1,
       productName: 'Shoes',
-      color: 'Red',
+      color: 'pink',
       sizes: '7,8,9,10',
       oldprice: 2199,
       newprice: 1199,
@@ -20,7 +20,7 @@ function Products() {
     {
       id: 2,
       productName: 'Shoes',
-      color: 'Red',
+      color: 'brown',
       sizes: '7,8,9,10',
       oldprice: 2199,
       newprice: 1199,
@@ -29,7 +29,7 @@ function Products() {
     {
       id: 3,
       productName: 'Shoes',
-      color: 'Red',
+      color: 'brown',
       sizes: '7,8,9,10',
       oldprice: 2199,
       newprice: 1199,
@@ -47,7 +47,7 @@ function Products() {
     {
       id: 5,
       productName: 'Shoes',
-      color: 'Red',
+      color: 'blue',
       sizes: '7,8,9,10',
       oldprice: 2199,
       newprice: 1199,
@@ -56,7 +56,7 @@ function Products() {
     {
       id: 6,
       productName: 'Shoes',
-      color: 'Red',
+      color: 'white',
       sizes: '7,8,9,10',
       oldprice: 2199,
       newprice: 1199,
