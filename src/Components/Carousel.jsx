@@ -8,7 +8,7 @@ import carol3 from '../assets/carol3.jpg';
 
 function Carousel() {
     return (
-        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel"data-bs-interval="2000" >
+        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel"data-bs-interval="5000" >
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src={carol1} class="d-block w-100" height={'450px'} alt="..." />

@@ -22,10 +22,10 @@ function About() {
         {/* Right Text */}
         <div className='col-12 col-md-6'>
           <p className='text-secondary text-justify lh-lg'>
-            <strong>E-commerce</strong> (electronic commerce) refers to the buying and selling of goods and services online. From shirts and t-shirts to electronic gadgets,
+            <strong>E-commerce</strong> (electronic commerce) refers to the buying and selling of goods and services online. From shoes, and casual shoes, to electronic gadgets,
             almost everything is now available at your fingertips. This transformation has revolutionized the way industries operate.
             <br /><br />
-            One such product is our <strong>all-cotton flannel shirt</strong> — soft, breathable, and stylish. Made from 100% cotton, it’s perfect for cooler days. The button-up closure and classic plaid design make it a versatile addition to any wardrobe.
+            One such product is our <strong>all-Leather and Casual Shoes</strong> — soft, breathable, and stylish. Made from 100% cotton, it’s perfect for cooler days. The button-up closure and classic plaid design make it a versatile addition to any wardrobe.
             <br /><br />
             Proudly <strong>Made in Italy</strong>, this shirt brings you comfort, durability, and timeless fashion.
           </p>
